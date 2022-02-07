@@ -1,0 +1,27 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
+\defcounter {refsection}{0}\relax
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {1}{1}{Motivation}{3}{0}{1}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {1}{2}{Key points}{7}{0}{1}
+\defcounter {refsection}{0}\relax
+\beamer@sectionintoc {2}{Method}{8}{0}{2}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {2}{1}{Filtered Poisson process}{9}{0}{2}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {2}{2}{Deconvolution}{19}{0}{2}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {2}{3}{Data set}{20}{0}{2}
+\defcounter {refsection}{0}\relax
+\beamer@sectionintoc {3}{Results}{22}{0}{3}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {3}{1}{Response function}{23}{0}{3}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {3}{2}{Temperature estimates}{25}{0}{3}
+\defcounter {refsection}{0}\relax
+\beamer@sectionintoc {4}{Conclusions}{27}{0}{4}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {4}{1}{Concluding remarks}{28}{0}{4}
+\defcounter {refsection}{0}\relax
+\beamer@subsectionintoc {4}{2}{Future work}{31}{0}{4}

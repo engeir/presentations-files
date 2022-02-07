@@ -1,0 +1,92 @@
+\subsection{Concluding remarks}
+
+\begin{frame}{Concluding remarks}
+
+  \begin{itemize}[<+->]
+    \item It is possible to obtain a response function from a
+      non-parametric method
+    \item Historic temperature is reproduced from forcing data
+    \item Reproduces shape of \(4\times\ce{CO2}\) experiment \(\rightarrow\) infer
+      climate sensitivity
+    % \item Power spectral density of residuals fit nicely to the PSD of a
+    %   control run
+  \end{itemize}
+
+  \note<1>{
+  \begin{itemize}
+    \item We saw that it is possible to obtain a response function from a non-parametric method
+  \end{itemize}
+  }
+  \note<2>{
+  \begin{itemize}
+    \item Using this response function, temperature over the last two millennia
+      was reconstructed from forcing data
+  \end{itemize}
+  }
+  \note<3>{
+  \begin{itemize}
+    \item Finally, using a constant forcing, temperature from a
+      \(4\times\ce{CO2}\) experiment was estimated
+    \item The estimates had similar shape to the temperature from simulation,
+      suggesting the possibility of inferring climate sensitivity from the
+      response function
+  \end{itemize}
+  }
+
+\end{frame}
+
+\subsection{Future work}
+
+\begin{frame}{Future work}
+
+  \begin{itemize}[<+->]
+    \item Analysis of the shape of the response function, for example using
+      exponentials or power laws
+    \item More exact study of the \(4\times\ce{CO2}\) experiment
+    \item Effect of clustering of volcanoes
+    % \item Estimation of the shape through the deconvolution algorithm using our
+    %   own climate simulations
+  \end{itemize}
+  \vspace{-2mm}
+  \begin{figure}
+    \centering
+    % \includegraphics<1>[width=\linewidth]{../figures/response_func_noresm_all_dark.pdf}
+    \includegraphics<1>[width=\linewidth]{../figures/response_func_noresm1_choose_dark.pdf}
+    % \includegraphics<2>[width=\linewidth]{../figures/estimate_historic/temp_abrupt1_dark.pdf}%
+    \includegraphics<2>[width=\linewidth]{../figures/estimate_historic/temp_abrupt1_alone_dark.pdf}%
+    \includegraphics<3->[width=\linewidth]{../figures/raw_historical_beam.pdf}%
+    % \includegraphics<3>[width=\linewidth]{../figures/estimate_historic/best_fit_raw_temps_dark.pdf}%
+  \end{figure}
+
+  {\pgfsetfillopacity{0.35}
+    \begin{tikzpicture}[visible on=<4>,overlay]
+    \draw[fill = lightgray] ([xshift=8.46cm,yshift=4.89cm]current page text area.east) rectangle (7.47,1.85);
+    \end{tikzpicture}
+  }
+  \pgfsetfillopacity{1}
+
+  \note<1>{
+  \begin{itemize}
+    \item Even though the shape is similar in the three versions, it is not
+      easy to get an idea of the underlying shape
+    \item Settling on one version and investigating what shape it has is one
+      future plan
+  \end{itemize}
+  }
+  \note<2>{
+  \begin{itemize}
+    \item We also saw the constant forcing experiment was well reproduced, but
+      this is also short and do not have very high temporal resolution
+    \item A more detailed study is therefore sought after
+  \end{itemize}
+  }
+  \note<3>{
+  \begin{itemize}
+    \item Before the little ice age there are partucularly many strong
+      volcanoes, suggesting they might play a role
+    \item Studying how such clustering of volcanoes affect climate on longer
+      time scales is therefore also included here as future work
+  \end{itemize}
+  }
+
+\end{frame}

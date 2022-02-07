@@ -1,0 +1,348 @@
+% !TeX root = ./beamer.tex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX Template: Beamer arrows
+%
+% Source: http://www.texample.net/
+% Feel free to distribute this template, but please keep the
+% referal to TeXample.net.
+% Date: Nov 2006
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% How to use writeLaTeX:
+%
+% You edit the source code here on the left, and the preview on the
+% right shows you the result within a few seconds.
+%
+% Bookmark this page and share the URL with your co-authors. They can
+% edit at the same time!
+%
+% You can upload figures, bibliographies, custom classes and
+% styles using the files menu.
+%
+% If you're new to LaTeX, the wikibook is a great place to start:
+% http://en.wikibooks.org/wiki/LaTeX
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[xcolor=dvipsnames]{beamer} %
+\usetheme[progressbar=frametitle,
+    titleformat=smallcaps,
+    % sectionpage=none,
+    numbering=fraction,
+    block=fill,
+    background=dark]{metropolis}
+% \usepackage[latin1]{inputenc}
+\usefonttheme{professionalfonts}
+\usefonttheme{serif} % default family is serif
+\usepackage{times}
+\usepackage{tikz}
+\newcommand{\dt}[1][t]{\mathrm{d}#1}
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools}
+\usepackage{subcaption}
+\usepackage{copyrightbox}
+\makeatletter
+\renewcommand{\CRB@setcopyrightfont}{%
+\color{black!33}
+\usefonttheme{serif}\selectfont
+}
+\makeatother
+% \captionsetup{justification=centering, labelfont=sc, labelsep=endash}
+\usepackage{movie15}
+\usepackage{animate}
+\usepackage{multimedia}
+\usepackage{wrapfig}
+\usepackage[backend=biber,style=numeric]{biblatex}
+% \usepackage[backend=biber,style=ieee]{biblatex}
+\addbibresource{/home/een023/science/ref/ref.bib}
+\addbibresource{ref.bib}
+\usepackage{natbib}
+\usepackage{multicol}
+\usepackage{pgf,pgfpages}
+\usepackage{graphicx}
+\usepackage[version=4]{mhchem}
+\usepackage[utf8]{inputenc}\DeclareUnicodeCharacter{2212}{-}
+\newcommand{\inputpgf}[2][1]{
+  \resizebox{#1\linewidth}{!}{%
+  \input{#2}
+  }%
+}
+\usepackage{appendixnumberbeamer}
+\DeclareMathOperator{\sech}{sech}
+\setbeamertemplate{note page}{\pagecolor{yellow!5}\vfill\insertnote\vfill}
+% \setbeameroption{show only notes} % Only notes
+% \setbeameroption{show notes on second screen=right} % Both
+
+% %%%%%%%%%%%%%%%%%% New UiT colors %%%%%%%%%%%%%%%%%%
+% UiT color palette: https://uit.no/ressurs/uit/profil2019/examples/fargekart.png
+\definecolor{MainBlue}{HTML}{003349} % #003349
+\definecolor{LightBlue}{HTML}{007396} % #007396
+\definecolor{DarkBlue}{HTML}{102064} % #102174
+\definecolor{Orange}{HTML}{f2a900} % #f2a900
+\definecolor{Red}{HTML}{cb333b} % #cb333b
+% \usepackage{xcolor}
+% \definecolor{astral}{RGB}{46,116,181} % rgb(46%,116%,181%)
+\definecolor{dark-gray}{gray}{0.5}
+\definecolor{light-gray}{gray}{0.8}
+\setbeamercolor{progress bar}{fg=Orange, bg=LightBlue}
+\setbeamercolor{title}{fg=light-gray}
+\setbeamercolor{background canvas}{bg=MainBlue}
+\setbeamercolor{section title}{fg=white,bg=red!50!black}
+\setbeamercolor{alerted text}{fg=Orange, bg=DarkBlue}
+\setbeamercolor{footnote}{fg=black!33}
+\usepackage{verbatim}
+\usetikzlibrary{arrows,shapes}
+\usepackage{booktabs}
+% To make a text box
+\usepackage[absolute,overlay]{textpos}
+\newcommand{\gf}[1]{\boldsymbol{#1}}
+
+%%%%%%%%%%%%%%%%%%%
+% This divides the TOC in the headline into two columns
+% https://tex.stackexchange.com/questions/47939/beamer-with-warsaw-theme-two-column-navigation
+\makeatletter
+\def\insertsectionnavigation#1{%
+  \hbox to #1{\vbox{{\usebeamerfont{section in head/foot}%
+     \usebeamercolor[fg]{section in head/foot}%
+     \def\slideentry##1##2##3##4##5##6{}%
+     \def\sectionentry##1##2##3##4##5{%
+       \ifnum##5=\c@part%
+       \def\insertsectionhead{##2\hskip3em}%
+       \def\insertsectionheadnumber{##1}%
+       \def\insertpartheadnumber{##5}%
+         \hyperlink{Navigation##3}{%
+             \ifnum\c@section=##1%
+               {\usebeamertemplate{section in head/foot}}%
+             \else%
+               {\usebeamertemplate{section in head/foot shaded}}%
+             \fi%
+         }\par
+       \fi}%
+       \parbox[c][0cm][c]{.5\paperwidth}{%
+       \begin{multicols}{2}
+       \dohead
+       \end{multicols}}\space}
+     }%
+  \hfil}%
+}
+
+\def\insertsubsectionnavigation#1{%
+  \hbox to #1{%
+    \vbox{{%
+      \usebeamerfont{subsection in head/foot}\usebeamercolor[fg]{subsection in head/foot}%
+      \vskip0.5625ex%
+      \beamer@currentsubsection=0%
+      \def\sectionentry##1##2##3##4##5{}%
+      \def\slideentry##1##2##3##4##5##6{\ifnum##6=\c@part\ifnum##1=\c@section%
+        \ifnum##2>\beamer@currentsubsection%
+        \beamer@currentsubsection=##2%
+        \def\insertsubsectionhead{##5}%
+        \def\insertsectionheadnumber{##1}%
+        \def\insertsubsectionheadnumber{##2}%
+        \def\insertpartheadnumber{##6}%
+        \beamer@link(##4){%
+              \ifnum\c@subsection=##2%
+                {\usebeamertemplate{subsection in head/foot}}%
+              \else%
+                {\usebeamertemplate{subsection in head/foot shaded}}%
+              \fi\hfill}\par
+        \fi\fi\fi}%
+       \hspace*{3em}\parbox[c][0cm][c]{\dimexpr.5\paperwidth-1em\relax}{%
+       \begin{multicols}{2}
+       \dohead\vskip0.5625ex\end{multicols}
+       }\space
+   }\hfil
+}}}
+
+\setbeamertemplate{headline}
+{%
+  \leavevmode\@tempdimb=2.4375ex%
+  \ifnum\beamer@subsectionmax<\beamer@sectionmax%
+    \multiply\@tempdimb by\beamer@sectionmax%
+  \else%
+    \multiply\@tempdimb by\beamer@subsectionmax%
+  \fi%
+  \ifdim\@tempdimb>0pt%
+    \advance\@tempdimb by 1.125ex%
+    \begin{beamercolorbox}[wd=.5\paperwidth,ht=0.5\@tempdimb,dp=2ex]{section in head/foot}%
+      \vbox to0.5\@tempdimb{\vfill\insertsectionnavigation{.5\paperwidth}\vfill}%
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.5\paperwidth,ht=0.5\@tempdimb,dp=2ex]{subsection in head/foot}%
+      \vbox to0.5\@tempdimb{\vfill\insertsubsectionnavigation{.5\paperwidth}\vfill}%
+    \end{beamercolorbox}%
+  \fi%
+}
+\makeatother
+%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\setlength{\metropolis@frametitle@padding}{.8ex}% <- default 2.2 ex
+
+\setbeamertemplate{footline}{%
+  \begin{beamercolorbox}[wd=\textwidth, sep=1.ex]{footline}% <- default 3ex
+    \usebeamerfont{page number in head/foot}%
+    \usebeamertemplate*{frame footer}
+    \hfill%
+    \usebeamertemplate*{frame numbering}
+  \end{beamercolorbox}%
+}
+\makeatother
+\usepackage{beamerouterthemesplit}
+\setbeamerfont{footnote}{size=\tiny}
+
+%%%%%%%%%%%%%%%%%%%
+\let\svthefootnote\thefootnote
+
+\makeatletter
+% https://tex.stackexchange.com/a/29931/38244
+\DeclareCiteCommand{\figurecite}
+{\usebibmacro{prenote}}%
+{%
+    \ifciteseen{}{%
+        \usebibmacro{citeindex}%
+        \let\thefootnote\relax%
+        \footnotetext{%
+            \blx@anchor
+            \mkbibbrackets{\usebibmacro{cite}}%
+            \setunit{\addnbspace}
+            \printnames{labelname}%
+            \setunit{\labelnamepunct}
+            \printfield[citetitle]{title}%
+            \newunit%
+            \printfield[]{year}%
+        }%
+        \let\thefootnote\svthefootnote%
+    }%
+    % \autocite{\thefield{entrykey}}%
+}
+{\addsemicolon\space}
+{\usebibmacro{postnote}}
+\makeatother
+\makeatletter
+% https://tex.stackexchange.com/a/29931/38244
+\DeclareCiteCommand{\cite}
+{\usebibmacro{prenote}}%
+{%
+    \ifciteseen{}{%
+        \usebibmacro{citeindex}%
+        \let\thefootnote\relax%
+        \footnotetext{%
+            \blx@anchor
+            \mkbibbrackets{\usebibmacro{cite}}%
+            \setunit{\addnbspace}
+            \printnames{labelname}%
+            \setunit{\labelnamepunct}
+            \printfield[citetitle]{title}%
+            \newunit%
+            \printfield[]{year}%
+        }%
+        \let\thefootnote\svthefootnote%
+    }%
+    \autocite{\thefield{entrykey}}%
+}
+{\addsemicolon\space}
+{\usebibmacro{postnote}}
+\makeatother
+
+%%%% Add unnumbered footnote command
+\newcommand\blfootnote[1]{%
+\begingroup
+\renewcommand\thefootnote{}\footnote{#1}%
+\addtocounter{footnote}{-1}%
+\endgroup
+}
+%%%%%%%%%%%%%%%%%%%
+
+\title{Estimating Temperature Response to Volcanic Eruptions}
+\author[\textsc{Eirik Rolland Enger}]{\textsc{Eirik Rolland Enger}} %\\ Audun Theodorsen\\ Martin Rypdal}}
+\date{\vspace{-3mm}\today\hfill\includegraphics[width=4cm]{UiT_Logo_Eng_2l_Hvit.png}}
+% \institute{UiT --- The Arctic University of Norway}
+\logo{\vspace{-2mm}\includegraphics[width=15mm]{UiT_Logo_Eng_2l_Hvit.png}\hspace{1mm}}
+% Prevent footnotes to bleed over the logo
+\newcommand{\beamerfoottmplength}{.78\paperwidth}
+\addtobeamertemplate{footnote}{\hsize\beamerfoottmplength}{}
+% \logo{text \raisebox{-0.5cm}{\includegraphics[width=1cm]{UiT_Logo_Eng_2l_Hvit.png}}\hspace*{\textwidth}}
+\begin{document}
+% \maketitle
+\begin{frame}[plain]
+  \titlepage
+
+  \note{
+  \begin{itemize}
+    \item ``Estimating Temperature Response to Volcanic Eruptions'' is
+      hopefully insteresting, but I want to motivate this anyways.
+  \end{itemize}
+  }
+
+\end{frame}
+\setcounter{framenumber}{0}
+
+\begin{comment}
+:Title: Beamer arrows
+:Tags: Remember picture, Beamer, Physics & chemistry, Overlays
+:Use page: 3
+
+With PGF/TikZ version 1.09 and later, it is possible to draw paths between nodes across
+different pictures. This is a useful feature for presentations with the
+Beamer package. In this example I've combined the new PGF/TikZ's overlay feature
+with Beamer overlays. Download the PDF version to see the result.
+
+**Note.** This only works with PDFTeX, and you have to run PDFTeX twice.
+
+| Author: Kjell Magne Fauske
+\end{comment}
+
+% For every picture that defines or uses external nodes, you'll have to
+% apply the 'remember picture' style. To avoid some typing, we'll apply
+% the style to all pictures.
+ \tikzset{
+    invisible/.style={opacity=0,text opacity=0},
+    visible on/.style={alt={#1{}{invisible}}},
+    alt/.code args={<#1>#2#3}{%
+      \alt<#1>{\pgfkeysalso{#2}}{\pgfkeysalso{#3}} % \pgfkeysalso doesn't change the path
+    },
+  }
+\tikzstyle{every picture}+=[remember picture]
+
+% By default all math in TikZ nodes are set in inline mode. Change this to
+% displaystyle so that we don't get small fractions.
+\everymath{\displaystyle}
+% \begin{frame}%,[allowframebreaks]
+%   \frametitle{Overview}
+
+%   \setbeamertemplate{section in toc}[sections numbered]
+%   \tableofcontents[hideallsubsections]
+
+% \end{frame}
+
+\section{Introduction}
+\input{frames/introduction.tex}
+
+% \section{Model}
+% \input{frames/model.tex}
+
+\section{Method}
+\input{frames/model.tex}
+\input{frames/method.tex}
+
+\section{Results}
+\input{frames/results.tex}
+
+\section{Conclusions}
+\input{frames/discussion.tex}
+
+\appendix  % Stops the frame count so the appendix and references are not counted
+
+\begin{frame}[allowframebreaks,plain]{References}
+
+  \begin{footnotesize}
+    % \bibliography{/home/een023/science/ref/ref.bib}
+    % \bibliographystyle{apalike}  % abbrv
+    \printbibliography[heading=none]
+  \end{footnotesize}
+
+\end{frame}
+
+\input{frames/appendix.tex}
+
+\end{document}

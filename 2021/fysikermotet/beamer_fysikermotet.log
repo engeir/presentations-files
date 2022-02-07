@@ -1,0 +1,2723 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.9.27)  7 FEB 2022 09:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**beamer_fysikermotet.tex
+(./beamer_fysikermotet.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17> (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2020/07/22 v3.59 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count168
+)
+\beamer@tempbox=\box45
+\beamer@tempcount=\count169
+\c@beamerpauses=\count170
+ (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count171
+\beamer@minimum=\count172
+\beamer@decode@box=\box46
+)
+\beamer@commentbox=\box47
+\beamer@modecount=\count173
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\headdp=\dimen134
+\footheight=\dimen135
+\sidebarheight=\dimen136
+\beamer@tempdim=\dimen137
+\beamer@finalheight=\dimen138
+\beamer@animht=\dimen139
+\beamer@animdp=\dimen140
+\beamer@animwd=\dimen141
+\beamer@leftmargin=\dimen142
+\beamer@rightmargin=\dimen143
+\beamer@leftsidebar=\dimen144
+\beamer@rightsidebar=\dimen145
+\beamer@boxsize=\dimen146
+\beamer@vboxoffset=\dimen147
+\beamer@descdefault=\dimen148
+\beamer@descriptionwidth=\dimen149
+\beamer@lastskip=\skip47
+\beamer@areabox=\box48
+\beamer@animcurrent=\box49
+\beamer@animshowbox=\box50
+\beamer@sectionbox=\box51
+\beamer@logobox=\box52
+\beamer@linebox=\box53
+\beamer@sectioncount=\count174
+\beamer@subsubsectionmax=\count175
+\beamer@subsectionmax=\count176
+\beamer@sectionmax=\count177
+\beamer@totalheads=\count178
+\beamer@headcounter=\count179
+\beamer@partstartpage=\count180
+\beamer@sectionstartpage=\count181
+\beamer@subsectionstartpage=\count182
+\beamer@animationtempa=\count183
+\beamer@animationtempb=\count184
+\beamer@xpos=\count185
+\beamer@ypos=\count186
+\beamer@ypos@offset=\count187
+\beamer@showpartnumber=\count188
+\beamer@currentsubsection=\count189
+\beamer@coveringdepth=\count190
+\beamer@sectionadjust=\count191
+\beamer@tocsectionnumber=\count192
+ (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+ (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+ (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count196
+\c@pgf@countb=\count197
+\c@pgf@countc=\count198
+\c@pgf@countd=\count199
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count266
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count267
+\pgfsyssoftpath@bigbuffer@items=\count268
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count269
+\pgfmath@box=\box55
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count270
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count271
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen191
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen195
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen196
+\pgf@sys@shading@range@num=\count272
+\pgf@shadingcount=\count273
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box59
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count274
+\XC@countmixins=\count275
+) (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen197
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count278
+Package hyperref Info: Option `bookmarks' set `true' on input line 4338.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4338.
+Package hyperref Info: Option `implicit' set `false' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count279
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen198
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count280
+\Field@Width=\dimen199
+\Fld@charsize=\dimen256
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+\Hy@abspage=\count281
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks27
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2020-07-27 v1.12b Easy translation of strings in LaTeX
+)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count284
+\beamer@lastskipcover=\skip50
+\beamer@trivlistdepth=\count285
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count286
+\c@part=\count287
+\c@section=\count288
+\c@subsection=\count289
+\c@subsubsection=\count290
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box60
+\beamer@frametitlebox=\box61
+\beamer@zoombox=\box62
+\beamer@zoomcount=\count291
+\beamer@zoomframecount=\count292
+\beamer@frametextheight=\dimen257
+\c@subsectionslide=\count293
+\beamer@frametopskip=\skip51
+\beamer@framebottomskip=\skip52
+\beamer@frametopskipautobreak=\skip53
+\beamer@framebottomskipautobreak=\skip54
+\beamer@envbody=\toks28
+\framewidth=\dimen258
+\c@framenumber=\count294
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box63
+\beamer@autobreakcount=\count295
+\beamer@autobreaklastheight=\dimen259
+\beamer@frametitletoks=\toks29
+\beamer@framesubtitletoks=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box64
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box65
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks31
+ (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box66
+\bmb@colorbox=\box67
+\bmb@boxshadow=\box68
+\bmb@boxshadowball=\box69
+\bmb@boxshadowballlarge=\box70
+\bmb@temp=\dimen260
+\bmb@dima=\dimen261
+\bmb@dimb=\dimen262
+\bmb@prevheight=\dimen263
+)
+\beamer@blockheadheight=\dimen264
+)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+\c@figure=\count296
+\c@table=\count297
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen265
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen266
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen267
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count298
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count299
+\leftroot@=\count300
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count301
+\DOTSCASE@=\count302
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box71
+\strutbox@=\box72
+\big@size=\dimen268
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count303
+\c@MaxMatrixCols=\count304
+\dotsspace@=\muskip17
+\c@parentequation=\count305
+\dspbrk@lvl=\count306
+\tag@help=\toks34
+\row@=\count307
+\column@=\count308
+\maxfields@=\count309
+\andhelp@=\toks35
+\eqnshift@=\dimen269
+\alignsep@=\dimen270
+\tagshift@=\dimen271
+\tagwidth@=\dimen272
+\totwidth@=\dimen273
+\lineht@=\dimen274
+\@envbody=\toks36
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
+\dth@everypar=\toks43
+)
+\c@theorem=\count310
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen275
+\beamer@dimb=\dimen276
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
+Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
+ (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+\pgfopts@list@add@a@toks=\toks44
+\pgfopts@list@add@b@toks=\toks45
+) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty
+Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count311
+\calc@Bcount=\count312
+\calc@Adimen=\dimen277
+\calc@Bdimen=\dimen278
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count313
+\calc@Cskip=\skip65
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box73
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen279
+\pgf@nodesepend=\dimen280
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen281
+\pgffor@skip=\dimen282
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count314
+\pgfplotmarksize=\dimen283
+)
+\tikz@lastx=\dimen284
+\tikz@lasty=\dimen285
+\tikz@lastxsaved=\dimen286
+\tikz@lastysaved=\dimen287
+\tikz@lastmovetox=\dimen288
+\tikz@lastmovetoy=\dimen289
+\tikzleveldistance=\dimen290
+\tikzsiblingdistance=\dimen291
+\tikz@figbox=\box74
+\tikz@figbox@bg=\box75
+\tikz@tempbox=\box76
+\tikz@tempbox@bg=\box77
+\tikztreelevel=\count315
+\tikznumberofchildren=\count316
+\tikznumberofcurrentchild=\count317
+\tikz@fig@count=\count318
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count319
+\pgfmatrixcurrentcolumn=\count320
+\pgf@matrix@numberofcolumns=\count321
+)
+\tikz@expandcount=\count322
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+\metropolis@titleseparator@linewidth=\skip66
+\metropolis@progressonsectionpage=\skip67
+\metropolis@progressonsectionpage@linewidth=\skip68
+\metropolis@blocksep=\skip69
+\metropolis@blockadjust=\skip70
+\metropolis@parskip=\skip71
+) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty
+Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
+\metropolis@frametitle@padding=\skip72
+\metropolis@progressinheadfoot=\skip73
+\metropolis@progressinheadfoot@linewidth=\skip74
+) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty
+Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
+) (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty
+Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+
+Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLaTeX to use the Fira fonts on input line 95.
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemeprofessionalfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR)
+) (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+ (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count323
+\l_MT_multwidth_dim=\dimen292
+\origjot=\skip75
+\l_MT_shortvdotswithinadjustabove_dim=\dimen293
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen294
+\l_MT_above_intertext_sep=\dimen295
+\l_MT_below_intertext_sep=\dimen296
+\l_MT_above_shortintertext_sep=\dimen297
+\l_MT_below_shortintertext_sep=\dimen298
+\xmathstrut@box=\box78
+\xmathstrut@dim=\dimen299
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen300
+\captionmargin@=\dimen301
+\captionwidth=\dimen302
+\caption@tempdima=\dimen303
+\caption@indent=\dimen304
+\caption@parindent=\dimen305
+\caption@hangindent=\dimen306
+Package caption Info: beamer document class detected.
+)
+\c@caption@flags=\count324
+\c@continuedfloat=\count325
+Package caption Info: beamer document class.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+\c@subfigure=\count326
+\c@subtable=\count327
+) (/usr/share/texlive/texmf-dist/tex/latex/copyrightbox/copyrightbox.sty (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+\tu@tmpa=\dimen307
+\CRB@ydiffl=\dimen308
+\CRB@xdiffl=\dimen309
+Package: copyrightbox 2011/11/27  v 0.1
+) (/usr/share/texlive/texmf-dist/tex/latex/movie15/movie15.sty
+Package: movie15 2012/05/16
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+\@MXV@page=\count328
+\@MXV@adict=\count329
+\@MXV@aadict=\count330
+\@MXV@includes=\count331
+\@MXV@players=\count332
+\@MXV@links=\count333
+\@MXV@width=\dimen310
+\@MXV@height=\dimen311
+\@MXV@depth=\dimen312
+\@MXV@totalheight=\dimen313
+\@MXV@@boxdepth=\dimen314
+\@MXV@traiselen=\dimen315
+\@MXV@braiselen=\dimen316
+\@MXV@start=\dimen317
+\@MXV@end=\dimen318
+\@MXV@textbox=\box79
+) (/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
+Package: animate 2020/05/29 PDF & SVG animations from files and inline graphics
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks48
+\XKV@tempa@toks=\toks49
+)
+\XKV@depth=\count334
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-05-28 v2.31 Module abspage for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-05-28 v2.31 Module base for zref (HO)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+)
+\c@abspage=\count335
+Package zref Info: New property: abspage on input line 66.
+) (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-07-17 L3 programming layer (loader)
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count336
+\l__pdf_internal_box=\box80
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2020/07/08 v0.43 driver independent access to low-level PDF features
+\g_pbs_page_int=\count337
+\g_pbs_oc_int=\count338
+) (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count339
+)
+\@anim@box=\box81
+\@anim@measbox=\box82
+\@anim@tmpdima=\dimen319
+\@anim@tmpdimb=\dimen320
+\@anim@num=\count340
+\@anim@curframe=\count341
+\@anim@curframe@zb=\count342
+\@anim@resizeflags=\count343
+\@anim@skipfram=\count344
+\@anim@mulframecnt=\count345
+\@anim@@tmlnfile=\read3
+\@anim@tmpcnt=\count346
+\c@@anim@ltxcnt=\count347
+\@anim@curlayer=\count348
+\@anim@lineno=\count349
+\@anim@curfield=\count350
+\@anim@@resizeflags=\count351
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia.sty
+Package: multimedia 2012/05/02 ver 0.02
+\mm@movie=\count352
+
+
+/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia.sty:159: LaTeX Error: Command \movie already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.159 }
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia.sty:194: LaTeX Error: Command \hyperlinkmovie already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.194 }
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen321
+\WF@size=\dimen322
+\c@WF@wrappedlines=\count353
+\WF@box=\box83
+\WF@everypar=\toks50
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count354
+ (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count355
+\c@listtotal=\count356
+\c@listcount=\count357
+\c@liststart=\count358
+\c@liststop=\count359
+\c@citecount=\count360
+\c@citetotal=\count361
+\c@multicitecount=\count362
+\c@multicitetotal=\count363
+\c@instcount=\count364
+\c@maxnames=\count365
+\c@minnames=\count366
+\c@maxitems=\count367
+\c@minitems=\count368
+\c@citecounter=\count369
+\c@maxcitecounter=\count370
+\c@savedcitecounter=\count371
+\c@uniquelist=\count372
+\c@uniquename=\count373
+\c@refsection=\count374
+\c@refsegment=\count375
+\c@maxextratitle=\count376
+\c@maxextratitleyear=\count377
+\c@maxextraname=\count378
+\c@maxextradate=\count379
+\c@maxextraalpha=\count380
+\c@abbrvpenalty=\count381
+\c@highnamepenalty=\count382
+\c@lownamepenalty=\count383
+\c@maxparens=\count384
+\c@parenlevel=\count385
+\blx@tempcnta=\count386
+\blx@tempcntb=\count387
+\blx@tempcntc=\count388
+\blx@maxsection=\count389
+\blx@maxsegment@0=\count390
+\blx@notetype=\count391
+\blx@parenlevel@text=\count392
+\blx@parenlevel@foot=\count393
+\blx@sectionciteorder@0=\count394
+\blx@entrysetcounter=\count395
+\labelnumberwidth=\skip76
+\labelalphawidth=\skip77
+\biblabelsep=\skip78
+\bibitemsep=\skip79
+\bibnamesep=\skip80
+\bibinitsep=\skip81
+\bibparsep=\skip82
+\bibhang=\skip83
+\blx@bcfin=\read4
+\blx@bcfout=\write5
+\blx@langwohyphens=\language34
+\c@mincomprange=\count396
+\c@maxcomprange=\count397
+\c@mincompwidth=\count398
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count399
+\c@savedafterword=\count400
+\c@annotator=\count401
+\c@savedannotator=\count402
+\c@author=\count403
+\c@savedauthor=\count404
+\c@bookauthor=\count405
+\c@savedbookauthor=\count406
+\c@commentator=\count407
+\c@savedcommentator=\count408
+\c@editor=\count409
+\c@savededitor=\count410
+\c@editora=\count411
+\c@savededitora=\count412
+\c@editorb=\count413
+\c@savededitorb=\count414
+\c@editorc=\count415
+\c@savededitorc=\count416
+\c@foreword=\count417
+\c@savedforeword=\count418
+\c@holder=\count419
+\c@savedholder=\count420
+\c@introduction=\count421
+\c@savedintroduction=\count422
+\c@namea=\count423
+\c@savednamea=\count424
+\c@nameb=\count425
+\c@savednameb=\count426
+\c@namec=\count427
+\c@savednamec=\count428
+\c@translator=\count429
+\c@savedtranslator=\count430
+\c@shortauthor=\count431
+\c@savedshortauthor=\count432
+\c@shorteditor=\count433
+\c@savedshorteditor=\count434
+\c@labelname=\count435
+\c@savedlabelname=\count436
+\c@institution=\count437
+\c@savedinstitution=\count438
+\c@lista=\count439
+\c@savedlista=\count440
+\c@listb=\count441
+\c@savedlistb=\count442
+\c@listc=\count443
+\c@savedlistc=\count444
+\c@listd=\count445
+\c@savedlistd=\count446
+\c@liste=\count447
+\c@savedliste=\count448
+\c@listf=\count449
+\c@savedlistf=\count450
+\c@location=\count451
+\c@savedlocation=\count452
+\c@organization=\count453
+\c@savedorganization=\count454
+\c@origlocation=\count455
+\c@savedoriglocation=\count456
+\c@origpublisher=\count457
+\c@savedorigpublisher=\count458
+\c@publisher=\count459
+\c@savedpublisher=\count460
+\c@language=\count461
+\c@savedlanguage=\count462
+\c@origlanguage=\count463
+\c@savedoriglanguage=\count464
+\c@pageref=\count465
+\c@savedpageref=\count466
+\shorthandwidth=\skip84
+\shortjournalwidth=\skip85
+\shortserieswidth=\skip86
+\shorttitlewidth=\skip87
+\shortauthorwidth=\skip88
+\shorteditorwidth=\skip89
+\locallabelnumberwidth=\skip90
+\locallabelalphawidth=\skip91
+\localshorthandwidth=\skip92
+\localshortjournalwidth=\skip93
+\localshortserieswidth=\skip94
+\localshorttitlewidth=\skip95
+\localshortauthorwidth=\skip96
+\localshorteditorwidth=\skip97
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count467
+\c@textcitetotal=\count468
+\c@textcitemaxnames=\count469
+\c@biburlbigbreakpenalty=\count470
+\c@biburlbreakpenalty=\count471
+\c@biburlnumpenalty=\count472
+\c@biburlucpenalty=\count473
+\c@biburllcpenalty=\count474
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count475
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count476
+\c@bbx:relatedtotal=\count477
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg
+)) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+
+/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty:637: LaTeX Error: Command \bibhang already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.637 \newlength{\bibhang}
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\bibsep=\skip98
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeauthor on input line 712.
+LaTeX Info: Redefining \Citeauthor on input line 731.
+LaTeX Info: Redefining \citeyear on input line 735.
+
+/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty:773: LaTeX Error: Command \NAT@parse already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.773 }
+       %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty:1028: LaTeX Error: Command \citename already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.1028 \newcommand\citename{}
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\c@NAT@ctr=\count478
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count479
+\mult@box=\box84
+\multicol@leftmargin=\dimen323
+\c@unbalance=\count480
+\c@collectmore=\count481
+\doublecol@number=\count482
+\multicoltolerance=\count483
+\multicolpretolerance=\count484
+\full@width=\dimen324
+\page@free=\dimen325
+\premulticols=\dimen326
+\postmulticols=\dimen327
+\multicolsep=\skip99
+\multicolbaselineskip=\skip100
+\partial@page=\box85
+\last@line=\box86
+\maxbalancingoverflow=\dimen328
+\mult@rightbox=\box87
+\mult@grightbox=\box88
+\mult@gfirstbox=\box89
+\mult@firstbox=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\c@minrows=\count485
+\c@columnbadness=\count486
+\c@finalcolumnbadness=\count487
+\last@try=\dimen329
+\multicolovershoot=\dimen330
+\multicolundershoot=\dimen331
+\mult@nat@firstbox=\box128
+\colbreak@box=\box129
+\mc@col@check@num=\count488
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
+Package: pgfpages 2011/01/05 ver 0.02
+\pgf@logicalpages=\count489
+\pgf@firstshipout=\count490
+\pgf@lastshipout=\count491
+\pgf@currentshipout=\count492
+\pgf@cpn=\count493
+\pgf@shipoutnextto=\count494
+\pgfphysicalheight=\dimen332
+\pgfphysicalwidth=\dimen333
+\pgfpages@shipoutbox=\box130
+) (/usr/share/texlive/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
+ (/usr/share/texlive/texmf-dist/tex/latex/chemgreek/chemgreek.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-05-15 L3 Experimental document command parser
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+\l__xparse_current_arg_int=\count495
+\g__xparse_grabber_int=\count496
+\l__xparse_m_args_int=\count497
+\l__xparse_v_nesting_int=\count498
+))
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
+\l__chemgreek_tmpa_int=\count499
+\g__chemgreek_tmpa_int=\count500
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count501
+\__mhchem_arrow_extPgfLength_skip=\skip101
+\mhchem@minispace@tmp=\skip102
+\mhchem@minibackspace@tmp=\skip103
+\mhchem@bondwidth=\skip104
+\mhchem@bondheight=\skip105
+\mhchem@smallbondwidth@tmpA=\skip106
+\mhchem@smallbondwidth@tmpB=\skip107
+\mhchem@smallbondwidth=\skip108
+\mhchem@bondtmp@minussidebearingleft=\skip109
+\mhchem@bondtmp@minussidebearingright=\skip110
+\l__mhchem_option_version_int=\count502
+\mhchem@option@minusmathsidebearingleft=\dimen334
+\mhchem@option@minusmathsidebearingright=\dimen335
+\mhchem@option@minustextsidebearingleft=\dimen336
+\mhchem@option@minustextsidebearingright=\dimen337
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks51
+\inpenc@posthook=\toks52
+)
+   defining Unicode char U+2212 (decimal 8722)
+ (/usr/share/texlive/texmf-dist/tex/latex/appendixnumberbeamer/appendixnumberbeamer.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks53
+\verbatim@line=\toks54
+\verbatim@in@stream=\read5
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen338
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodepartlowerbox=\box131
+\pgfnodeparttwobox=\box132
+\pgfnodepartthreebox=\box133
+\pgfnodepartfourbox=\box134
+\pgfnodeparttwentybox=\box135
+\pgfnodepartnineteenbox=\box136
+\pgfnodeparteighteenbox=\box137
+\pgfnodepartseventeenbox=\box138
+\pgfnodepartsixteenbox=\box139
+\pgfnodepartfifteenbox=\box140
+\pgfnodepartfourteenbox=\box141
+\pgfnodepartthirteenbox=\box142
+\pgfnodeparttwelvebox=\box143
+\pgfnodepartelevenbox=\box144
+\pgfnodeparttenbox=\box145
+\pgfnodepartninebox=\box146
+\pgfnodeparteightbox=\box147
+\pgfnodepartsevenbox=\box148
+\pgfnodepartsixbox=\box149
+\pgfnodepartfivebox=\box150
+))) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen339
+\lightrulewidth=\dimen340
+\cmidrulewidth=\dimen341
+\belowrulesep=\dimen342
+\belowbottomsep=\dimen343
+\aboverulesep=\dimen344
+\abovetopsep=\dimen345
+\cmidrulesep=\dimen346
+\cmidrulekern=\dimen347
+\defaultaddspace=\dimen348
+\@cmidla=\count503
+\@cmidlb=\count504
+\@aboverulesep=\dimen349
+\@belowrulesep=\dimen350
+\@thisruleclass=\count505
+\@lastruleclass=\count506
+\@thisrulewidth=\dimen351
+) (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2019/04/15 v1.9.1
+
+Package: textpos 2019/04/15 1.9.1, absolute positioning of text on the page
+\TP@textbox=\box151
+\TP@holdbox=\box152
+\TPHorizModule=\dimen352
+\TPVertModule=\dimen353
+\TP@margin=\dimen354
+\TP@absmargin=\dimen355
+Grid set 16 x 16 = 22.7622pt x 17.07166pt
+\TPboxrulesize=\dimen356
+\TP@ox=\dimen357
+\TP@oy=\dimen358
+\TP@tbargs=\toks55
+\TP@prevdepth=\dimen359
+TextBlockOrigin set to 0pt x 0pt
+) (./beamerouterthemesplit.sty)
+Package biblatex Info: Redefining '\cite' on input line 223.
+
+
+./beamer_fysikermotet.tex:265: Package biblatex Error: Incompatible package 'natbib'.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.265 \begin{document}
+
+The 'natbib' package and biblatex are incompatible.
+
+\@quotelevel=\count507
+\@quotereset=\count508
+(./beamer_fysikermotet.aux)
+\openout1 = `beamer_fysikermotet.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 265.
+LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 265.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count509
+\scratchdimen=\dimen360
+\scratchbox=\box153
+\nofMPsegments=\count510
+\nofMParguments=\count511
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count512
+\MPscratchDim=\dimen361
+\MPnumerator=\count513
+\makeMPintoPDFobject=\count514
+\everyMPtoPDFconversion=\toks57
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box154
+Package hyperref Info: Link coloring OFF on input line 265.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count515
+)
+LaTeX Info: Redefining \ref on input line 265.
+LaTeX Info: Redefining \pageref on input line 265.
+LaTeX Info: Redefining \nameref on input line 265.
+ (./beamer_fysikermotet.out) (./beamer_fysikermotet.out)
+\@outlinefile=\write6
+\openout6 = `beamer_fysikermotet.out'.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `beamer_fysikermotet.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'beamer_fysikermotet.bbl' found.
+ (./beamer_fysikermotet.bbl)
+Package biblatex Info: Reference section=0 on input line 265.
+Package biblatex Info: Reference segment=0 on input line 265.
+
+Package chemgreek Info: Activating mapping `default' on line 265.
+
+ (./beamer_fysikermotet.nav)
+LaTeX Font Info:    Calculating math sizes for size <4> on input line 265.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2> not available
+(Font)              size <3> substituted on input line 265.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4> not available
+(Font)              size <5> substituted on input line 265.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.79999> not available
+(Font)              size <5> substituted on input line 265.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2> not available
+(Font)              size <5> substituted on input line 265.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 265.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.79999> not available
+(Font)              size <5> substituted on input line 265.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2> not available
+(Font)              size <5> substituted on input line 265.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 265.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 265.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (8.0pt too wide) in paragraph at lines 265--265
+[]| $[]$[]
+ []
+
+<UiT_Logo_Eng_2l_Hvit.png, id=75, 2734.215pt x 501.875pt>
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 277.
+(pdftex.def)             Requested size: 113.81102pt x 20.88332pt.
+
+Overfull \vbox (15.63992pt too high) detected at line 277
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./UiT_Logo_Eng_2l_Hvit.png>] [2
+
+] (./frames/introduction.tex
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 40.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[3
+
+]
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 40.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[4
+
+]
+<pic/equilibrium_climate_sensitivity.png, id=130, 831.105pt x 1117.17375pt>
+File: pic/equilibrium_climate_sensitivity.png Graphic file (type png)
+<use pic/equilibrium_climate_sensitivity.png>
+Package pdftex.def Info: pic/equilibrium_climate_sensitivity.png  used on input line 84.
+(pdftex.def)             Requested size: 122.91406pt x 165.21638pt.
+<unsplash/volcano-unsplash.jpg, id=131, 5167.305pt x 3955.77875pt>
+File: unsplash/volcano-unsplash.jpg Graphic file (type jpg)
+<use unsplash/volcano-unsplash.jpg>
+Package pdftex.def Info: unsplash/volcano-unsplash.jpg  used on input line 84.
+(pdftex.def)             Requested size: 153.64493pt x 117.58176pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 84.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[5
+
+ <./pic/equilibrium_climate_sensitivity.png> <./unsplash/volcano-unsplash.jpg>]
+File: pic/equilibrium_climate_sensitivity.png Graphic file (type png)
+<use pic/equilibrium_climate_sensitivity.png>
+Package pdftex.def Info: pic/equilibrium_climate_sensitivity.png  used on input line 84.
+(pdftex.def)             Requested size: 122.91406pt x 165.21638pt.
+File: unsplash/volcano-unsplash.jpg Graphic file (type jpg)
+<use unsplash/volcano-unsplash.jpg>
+Package pdftex.def Info: unsplash/volcano-unsplash.jpg  used on input line 84.
+(pdftex.def)             Requested size: 153.64493pt x 117.58176pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 84.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[6
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 107.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[7
+
+]) [8
+
+] (./frames/model.tex
+File: unsplash/volcano-unsplash.jpg Graphic file (type jpg)
+<use unsplash/volcano-unsplash.jpg>
+Package pdftex.def Info: unsplash/volcano-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 72.91518pt.
+<unsplash/nasa-cme-unsplash.jpg, id=181, 4111.36pt x 4111.36pt>
+File: unsplash/nasa-cme-unsplash.jpg Graphic file (type jpg)
+<use unsplash/nasa-cme-unsplash.jpg>
+Package pdftex.def Info: unsplash/nasa-cme-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 95.23055pt.
+<blobs/blobpng_284.png, id=182, 256.96pt x 371.3875pt>
+File: blobs/blobpng_284.png Graphic file (type png)
+<use blobs/blobpng_284.png>
+Package pdftex.def Info: blobs/blobpng_284.png  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 137.67755pt.
+
+
+./frames/model.tex:55: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.55 \end{frame}
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 55.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[9
+
+ <./unsplash/nasa-cme-unsplash.jpg> <./blobs/blobpng_284.png>]
+File: unsplash/volcano-unsplash.jpg Graphic file (type jpg)
+<use unsplash/volcano-unsplash.jpg>
+Package pdftex.def Info: unsplash/volcano-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 72.91518pt.
+File: unsplash/nasa-cme-unsplash.jpg Graphic file (type jpg)
+<use unsplash/nasa-cme-unsplash.jpg>
+Package pdftex.def Info: unsplash/nasa-cme-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 95.23055pt.
+File: blobs/blobpng_284.png Graphic file (type png)
+<use blobs/blobpng_284.png>
+Package pdftex.def Info: blobs/blobpng_284.png  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 137.67755pt.
+
+
+./frames/model.tex:55: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.55 \end{frame}
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 55.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[10
+
+]
+File: unsplash/volcano-unsplash.jpg Graphic file (type jpg)
+<use unsplash/volcano-unsplash.jpg>
+Package pdftex.def Info: unsplash/volcano-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 72.91518pt.
+File: unsplash/nasa-cme-unsplash.jpg Graphic file (type jpg)
+<use unsplash/nasa-cme-unsplash.jpg>
+Package pdftex.def Info: unsplash/nasa-cme-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 95.23055pt.
+File: blobs/blobpng_284.png Graphic file (type png)
+<use blobs/blobpng_284.png>
+Package pdftex.def Info: blobs/blobpng_284.png  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 137.67755pt.
+
+
+./frames/model.tex:55: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.55 \end{frame}
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 55.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[11
+
+]
+File: unsplash/volcano-unsplash.jpg Graphic file (type jpg)
+<use unsplash/volcano-unsplash.jpg>
+Package pdftex.def Info: unsplash/volcano-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 72.91518pt.
+File: unsplash/nasa-cme-unsplash.jpg Graphic file (type jpg)
+<use unsplash/nasa-cme-unsplash.jpg>
+Package pdftex.def Info: unsplash/nasa-cme-unsplash.jpg  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 95.23055pt.
+File: blobs/blobpng_284.png Graphic file (type png)
+<use blobs/blobpng_284.png>
+Package pdftex.def Info: blobs/blobpng_284.png  used on input line 55.
+(pdftex.def)             Requested size: 95.25911pt x 137.67755pt.
+
+
+./frames/model.tex:55: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.55 \end{frame}
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 55.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[12
+
+]
+<anim.png, id=242, 2409.0pt x 1806.75pt>
+File: anim.png Graphic file (type png)
+<use anim.png>
+Package pdftex.def Info: anim.png  used on input line 107.
+(pdftex.def)             Requested size: 159.78983pt x 119.84135pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 107.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[13
+
+ <./anim.png (PNG copy)>]
+File: anim.png Graphic file (type png)
+<use anim.png>
+Package pdftex.def Info: anim.png  used on input line 107.
+(pdftex.def)             Requested size: 159.78983pt x 119.84135pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 107.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[14
+
+]
+File: anim.png Graphic file (type png)
+<use anim.png>
+Package pdftex.def Info: anim.png  used on input line 107.
+(pdftex.def)             Requested size: 159.78983pt x 119.84135pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 107.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[15
+
+]
+File: anim.png Graphic file (type png)
+<use anim.png>
+Package pdftex.def Info: anim.png  used on input line 107.
+(pdftex.def)             Requested size: 159.78983pt x 119.84135pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 107.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[16
+
+]
+File: anim.png Graphic file (type png)
+<use anim.png>
+Package pdftex.def Info: anim.png  used on input line 107.
+(pdftex.def)             Requested size: 159.78983pt x 119.84135pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 107.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[17
+
+]
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 161.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[18
+
+<<animation.mp4>>]
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 254.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[19
+
+]) (./frames/method.tex
+<noresm/noresm_raw_dark.pdf, id=369, 578.16pt x 216.81pt>
+File: noresm/noresm_raw_dark.pdf Graphic file (type pdf)
+<use noresm/noresm_raw_dark.pdf>
+Package pdftex.def Info: noresm/noresm_raw_dark.pdf  used on input line 24.
+(pdftex.def)             Requested size: 307.28987pt x 115.23296pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 24.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[20
+
+ <./noresm/noresm_raw_dark.pdf>]
+<noresm/raw_historical_beam.pdf, id=415, 578.16pt x 216.81pt>
+File: noresm/raw_historical_beam.pdf Graphic file (type pdf)
+<use noresm/raw_historical_beam.pdf>
+Package pdftex.def Info: noresm/raw_historical_beam.pdf  used on input line 94.
+(pdftex.def)             Requested size: 307.28987pt x 115.23296pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 94.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[21
+
+ <./noresm/raw_historical_beam.pdf>]) [22
+
+] (./frames/results.tex
+File: noresm/noresm_raw_dark.pdf Graphic file (type pdf)
+<use noresm/noresm_raw_dark.pdf>
+Package pdftex.def Info: noresm/noresm_raw_dark.pdf  used on input line 43.
+(pdftex.def)             Requested size: 153.64493pt x 57.61647pt.
+
+
+LaTeX Warning: File `response_func_noresm1_choose_dark.pdf' not found on input line 43.
+
+
+./frames/results.tex:43: Package pdftex.def Error: File `response_func_noresm1_choose_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.43 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 43.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (7.29918pt too wide) in paragraph at lines 43--43
+ []
+ []
+
+
+Overfull \vbox (209.4732pt too high) detected at line 43
+ []
+
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 43.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[23
+
+]
+
+LaTeX Warning: File `response_func_noresm1_choose_dark.pdf' not found on input line 85.
+
+
+./frames/results.tex:85: Package pdftex.def Error: File `response_func_noresm1_choose_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.85 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `noresm_raw_with_est_dark.pdf' not found on input line 85.
+
+
+./frames/results.tex:85: Package pdftex.def Error: File `noresm_raw_with_est_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.85 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (7.29918pt too wide) in paragraph at lines 85--85
+ []
+ []
+
+
+Overfull \vbox (305.50986pt too high) detected at line 85
+ []
+
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 85.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[24
+
+]
+
+LaTeX Warning: File `estimate_historic/best_fit_raw_temp1_alone_dark.pdf' not found on input line 109.
+
+
+./frames/results.tex:109: Package pdftex.def Error: File `estimate_historic/best_fit_raw_temp1_alone_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.109 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (90.65688pt too high) detected at line 109
+ []
+
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 109.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[25
+
+]
+<estimate_historic/temp_abrupt1_alone_dark.pdf, id=495, 578.16pt x 216.81pt>
+File: estimate_historic/temp_abrupt1_alone_dark.pdf Graphic file (type pdf)
+<use estimate_historic/temp_abrupt1_alone_dark.pdf>
+Package pdftex.def Info: estimate_historic/temp_abrupt1_alone_dark.pdf  used on input line 130.
+(pdftex.def)             Requested size: 307.28987pt x 115.23296pt.
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 130.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[26
+
+ <./estimate_historic/temp_abrupt1_alone_dark.pdf>]) [27
+
+] (./frames/discussion.tex
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 36.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[28
+
+]
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 36.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[29
+
+]
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 36.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[30
+
+]
+
+LaTeX Warning: File `../figures/response_func_noresm1_choose_dark.pdf' not found on input line 92.
+
+
+./frames/discussion.tex:92: Package pdftex.def Error: File `../figures/response_func_noresm1_choose_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/discussion.tex:92: Package pgf Error: No shape named `current page text area' is known.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+Overfull \vbox (177.48654pt too high) detected at line 92
+ []
+
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 92.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[31
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/temp_abrupt1_alone_dark.pdf' not found on input line 92.
+
+
+./frames/discussion.tex:92: Package pdftex.def Error: File `../figures/estimate_historic/temp_abrupt1_alone_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/discussion.tex:92: Package pgf Error: No shape named `current page text area' is known.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+(That was another \errmessage.)
+
+
+Overfull \vbox (177.48654pt too high) detected at line 92
+ []
+
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 92.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[32
+
+]
+
+LaTeX Warning: File `../figures/raw_historical_beam.pdf' not found on input line 92.
+
+
+./frames/discussion.tex:92: Package pdftex.def Error: File `../figures/raw_historical_beam.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/discussion.tex:92: Package pgf Error: No shape named `current page text area' is known.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+(That was another \errmessage.)
+
+
+Overfull \vbox (177.48654pt too high) detected at line 92
+ []
+
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 92.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[33
+
+]
+
+LaTeX Warning: File `../figures/raw_historical_beam.pdf' not found on input line 92.
+
+
+./frames/discussion.tex:92: Package pdftex.def Error: File `../figures/raw_historical_beam.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/discussion.tex:92: Package pgf Error: No shape named `current page text area' is known.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.92 \end{frame}
+
+(That was another \errmessage.)
+
+
+Overfull \vbox (177.48654pt too high) detected at line 92
+ []
+
+File: UiT_Logo_Eng_2l_Hvit.png Graphic file (type png)
+<use UiT_Logo_Eng_2l_Hvit.png>
+Package pdftex.def Info: UiT_Logo_Eng_2l_Hvit.png  used on input line 92.
+(pdftex.def)             Requested size: 42.67912pt x 7.82645pt.
+
+Overfull \hbox (8.0pt too wide) has occurred while \output is active
+[]| $[]$[]
+ []
+
+[34
+
+])
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\translate ' on input line 334.
+
+[35
+
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [36
+
+
+] (./frames/appendix.tex
+
+LaTeX Warning: File `../figures/noresm_frc_dark.pdf' not found on input line 18.
+
+
+./frames/appendix.tex:18: Package pdftex.def Error: File `../figures/noresm_frc_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.18 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 18
+ []
+
+[37
+
+]
+
+LaTeX Warning: File `../figures/noresm_temp_dark.pdf' not found on input line 35.
+
+
+./frames/appendix.tex:35: Package pdftex.def Error: File `../figures/noresm_temp_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.35 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 35
+ []
+
+[38
+
+]
+
+LaTeX Warning: File `../figures/noresm_raw_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/noresm_raw_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/appendix.tex:97: Package pgfkeys Error: Choice 'top' unknown in choice key '/tikz/align'. I am going to ignore this key.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+(That was another \errmessage.)
+
+
+LaTeX Warning: File `../figures/response_func_noresm_all_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/response_func_noresm_all_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (7.29918pt too wide) in paragraph at lines 97--97
+[][]
+ []
+
+
+Overfull \vbox (257.66243pt too high) detected at line 97
+ []
+
+[39
+
+]
+
+LaTeX Warning: File `../figures/noresm_raw_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/noresm_raw_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/appendix.tex:97: Package pgfkeys Error: Choice 'top' unknown in choice key '/tikz/align'. I am going to ignore this key.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+(That was another \errmessage.)
+
+
+LaTeX Warning: File `../figures/response_func_noresm_all_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/response_func_noresm_all_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (7.29918pt too wide) in paragraph at lines 97--97
+[][]
+ []
+
+
+Overfull \vbox (257.66243pt too high) detected at line 97
+ []
+
+[40
+
+]
+
+LaTeX Warning: File `../figures/noresm_raw_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/noresm_raw_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/appendix.tex:97: Package pgfkeys Error: Choice 'top' unknown in choice key '/tikz/align'. I am going to ignore this key.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+(That was another \errmessage.)
+
+
+LaTeX Warning: File `../figures/response_func_noresm_all_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/response_func_noresm_all_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (7.29918pt too wide) in paragraph at lines 97--97
+[][]
+ []
+
+
+Overfull \vbox (257.66243pt too high) detected at line 97
+ []
+
+[41
+
+]
+
+LaTeX Warning: File `../figures/noresm_raw_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/noresm_raw_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./frames/appendix.tex:97: Package pgfkeys Error: Choice 'top' unknown in choice key '/tikz/align'. I am going to ignore this key.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+(That was another \errmessage.)
+
+
+LaTeX Warning: File `../figures/response_func_noresm_all_dark.pdf' not found on input line 97.
+
+
+./frames/appendix.tex:97: Package pdftex.def Error: File `../figures/response_func_noresm_all_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.97 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (7.29918pt too wide) in paragraph at lines 97--97
+[][]
+ []
+
+
+Overfull \vbox (257.66243pt too high) detected at line 97
+ []
+
+[42
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/best_fit_raw_temps_dark.pdf' not found on input line 135.
+
+
+./frames/appendix.tex:135: Package pdftex.def Error: File `../figures/estimate_historic/best_fit_raw_temps_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.135 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 135
+ []
+
+[43
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/best_fit_raw_temps2_dark.pdf' not found on input line 135.
+
+
+./frames/appendix.tex:135: Package pdftex.def Error: File `../figures/estimate_historic/best_fit_raw_temps2_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.135 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 135
+ []
+
+[44
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/best_fit_raw_temps3_dark.pdf' not found on input line 135.
+
+
+./frames/appendix.tex:135: Package pdftex.def Error: File `../figures/estimate_historic/best_fit_raw_temps3_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.135 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 135
+ []
+
+[45
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/temp_abrupt1_dark.pdf' not found on input line 172.
+
+
+./frames/appendix.tex:172: Package pdftex.def Error: File `../figures/estimate_historic/temp_abrupt1_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.172 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 172
+ []
+
+[46
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/temp_abrupt2_dark.pdf' not found on input line 172.
+
+
+./frames/appendix.tex:172: Package pdftex.def Error: File `../figures/estimate_historic/temp_abrupt2_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.172 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 172
+ []
+
+[47
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/temp_abrupt3_dark.pdf' not found on input line 172.
+
+
+./frames/appendix.tex:172: Package pdftex.def Error: File `../figures/estimate_historic/temp_abrupt3_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.172 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 172
+ []
+
+[48
+
+]
+
+LaTeX Warning: File `../figures/estimate_historic/all_psd_dark.pdf' not found on input line 192.
+
+
+./frames/appendix.tex:192: Package pdftex.def Error: File `../figures/estimate_historic/all_psd_dark.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.192 \end{frame}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (60.82202pt too high) detected at line 192
+ []
+
+[49
+
+])
+\tf@nav=\write7
+\openout7 = `beamer_fysikermotet.nav'.
+
+\tf@toc=\write8
+\openout8 = `beamer_fysikermotet.toc'.
+
+\tf@snm=\write9
+\openout9 = `beamer_fysikermotet.snm'.
+
+
+
+Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+(movie15)                @@ Package `movie15' is obsolete and @@
+(movie15)                @@ superseded by `media9'.           @@
+(movie15)                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
+(./beamer_fysikermotet.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
+Package rerunfilecheck Info: File `beamer_fysikermotet.out' has not changed.
+(rerunfilecheck)             Checksum: 0FD053C337B21CD6C2C76B759D2057E1;801.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.0pt have occurred.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package logreq Info: Writing requests to 'beamer_fysikermotet.run.xml'.
+\openout1 = `beamer_fysikermotet.run.xml'.
+
+ )
+Here is how much of TeX's memory you used:
+ 36574 strings out of 482193
+ 755614 string characters out of 5938703
+ 1473381 words of memory out of 5000000
+ 51005 multiletter control sequences out of 15000+600000
+ 574814 words of font info for 113 fonts, out of 8000000 for 9000
+ 395 hyphenation exceptions out of 8191
+ 66i,22n,108p,1998b,2359s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on beamer_fysikermotet.pdf (49 pages, 5978747 bytes).
+PDF statistics:
+ 824 PDF objects out of 1000 (max. 8388607)
+ 722 compressed objects within 8 object streams
+ 123 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)

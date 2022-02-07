@@ -1,0 +1,374 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{benvenuto2009}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f49f98fd736afee4cb87346a972a8878}{%
+           family={Benvenuto},
+           familyi={B\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=baecaefa69ec046b3dd9828fca5cc83b}{%
+           family={Zanella},
+           familyi={Z\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3e4aa2b4b8cb84c82a3244595b6d7331}{%
+           family={Zanni},
+           familyi={Z\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c7048aba19680618bce0e2a3ff12cdb4}{%
+           family={Bertero},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{306a45b27c6e9659cbec1923bb6a3601}
+      \strng{fullhash}{250e480129bc3d6da84be8d98fd5c23a}
+      \strng{bibnamehash}{306a45b27c6e9659cbec1923bb6a3601}
+      \strng{authorbibnamehash}{306a45b27c6e9659cbec1923bb6a3601}
+      \strng{authornamehash}{306a45b27c6e9659cbec1923bb6a3601}
+      \strng{authorfullhash}{250e480129bc3d6da84be8d98fd5c23a}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The least-squares approach to image deblurring leads to an ill-posed problem. The addition of the nonnegativity constraint, when appropriate, does not provide regularization, even if, as far as we know, a thorough investigation of the ill-posedness of the resulting constrained least-squares problem has still to be done. Iterative methods, converging to nonnegative least-squares solutions, have been proposed. Some of them have the ‘semi-convergence’ property, i.e. early stopping of the iteration provides ‘regularized’ solutions. In this paper we consider two of these methods: the projected Landweber (PL) method and the iterative image space reconstruction algorithm (ISRA). Even if they work well in many instances, they are not frequently used in practice because, in general, they require a large number of iterations before providing a sensible solution. Therefore, the main purpose of this paper is to refresh these methods by increasing their efficiency. Starting from the remark that PL and ISRA require only the computation of the gradient of the functional, we propose the application to these algorithms of special acceleration techniques that have been recently developed in the area of the gradient methods. In particular, we propose the application of efficient step-length selection rules and line-search strategies. Moreover, remarking that ISRA is a scaled gradient algorithm, we evaluate its behaviour in comparison with a recent scaled gradient projection (SGP) method for image deblurring. Numerical experiments demonstrate that the accelerated methods still exhibit the semi-convergence property, with a considerable gain both in the number of iterations and in the computational time; in particular, SGP appears definitely the most efficient one.}
+      \field{journaltitle}{Inverse Problems}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{Nonnegative least-squares image deblurring: improved gradient projection approaches}
+      \field{volume}{26}
+      \field{year}{2009}
+      \field{pages}{025004}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0266-5611/26/2/025004
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/0266-5611/26/2/025004
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/0266-5611/26/2/025004
+      \endverb
+    \endentry
+    \entry{jones2004}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bb444ed2a864f4aaf5b91e60f22985bb}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={P.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=453cb7e41264010005efe175ae4ca91f}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5657dbabb180a4dd72892e15e7ef64ab}
+      \strng{fullhash}{5657dbabb180a4dd72892e15e7ef64ab}
+      \strng{bibnamehash}{5657dbabb180a4dd72892e15e7ef64ab}
+      \strng{authorbibnamehash}{5657dbabb180a4dd72892e15e7ef64ab}
+      \strng{authornamehash}{5657dbabb180a4dd72892e15e7ef64ab}
+      \strng{authorfullhash}{5657dbabb180a4dd72892e15e7ef64ab}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We review evidence for climate change over the past several millennia from instrumental and high-resolution climate "proxy" data sources and climate modeling studies. We focus on changes over the past 1 to 2 millennia. We assess reconstructions and modeling studies analyzing a number of different climate fields, including atmospheric circulation diagnostics, precipitation, and drought. We devote particular attention to proxy-based reconstructions of temperature patterns in past centuries, which place recent large-scale warming in an appropriate longer-term context. Our assessment affirms the conclusion that late 20th century warmth is unprecedented at hemispheric and, likely, global scales. There is more tentative evidence that particular modes of climate variability, such as the El Niño/Southern Oscillation and the North Atlantic Oscillation, may have exhibited late 20th century behavior that is anomalous in a long-term context. Regional conclusions, particularly for the Southern Hemisphere and parts of the tropics where high-resolution proxy data are sparse, are more circumspect. The dramatic differences between regional and hemispheric/ global past trends, and the distinction between changes in surface temperature and precipitation/drought fields, underscore the limited utility in the use of terms such as the "Little Ice Age" and "Medieval Warm Period" for describing past climate epochs during the last millennium. Comparison of emphirical evidence with proxy-based reconstructions demonstrates that natural factors appaear to explain relatively well the major surface temperature changes of the past millennium through the 9th century (including hemispheric means and some spatial patterns). Only anthropogenic forcing of climate, however, can explain the recent anomalous warming in the late 20th century. Copyright 2004 by the American Geophysical Union.}
+      \field{issn}{87551209}
+      \field{journaltitle}{Reviews of Geophysics}
+      \field{number}{2}
+      \field{title}{{Climate over past millennia}}
+      \field{volume}{42}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 42}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1029/2003RG000143
+      \endverb
+      \verb{file}
+      \verb :home/een023/Documents/notes{\_}papers/papers/pdf/2004-jones{\_}mann-climate{\_}over{\_}last{\_}millennia.pdf:pdf
+      \endverb
+      \keyw{Climate}
+    \endentry
+    \entry{knutti2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a8e5a46d9becbfa810b4bfb23a3d16b7}{%
+           family={Knutti},
+           familyi={K\bibinitperiod},
+           given={Reto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=568b18ceafb9749cb0ddac2cb026d60c}{%
+           family={Rugenstein},
+           familyi={R\bibinitperiod},
+           given={Maria\bibnamedelimb A.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7239c6f13da23c72dcf3df2bf5ce25f0}{%
+           family={Hegerl},
+           familyi={H\bibinitperiod},
+           given={Gabriele\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{efdd526f7344b6a702423839e6e27654}
+      \strng{fullhash}{efdd526f7344b6a702423839e6e27654}
+      \strng{bibnamehash}{efdd526f7344b6a702423839e6e27654}
+      \strng{authorbibnamehash}{efdd526f7344b6a702423839e6e27654}
+      \strng{authornamehash}{efdd526f7344b6a702423839e6e27654}
+      \strng{authorfullhash}{efdd526f7344b6a702423839e6e27654}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Geoscience}
+      \field{month}{9}
+      \field{number}{10}
+      \field{title}{Beyond equilibrium climate sensitivity}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{pages}{727\bibrangedash 736}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1038/ngeo3017
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038%2Fngeo3017
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038%2Fngeo3017
+      \endverb
+    \endentry
+    \entry{Lucy1974}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4cb84dd858c4ec9dae881405f13f0f58}{%
+           family={Lucy},
+           familyi={L\bibinitperiod},
+           given={L.\bibnamedelimi B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4cb84dd858c4ec9dae881405f13f0f58}
+      \strng{fullhash}{4cb84dd858c4ec9dae881405f13f0f58}
+      \strng{bibnamehash}{4cb84dd858c4ec9dae881405f13f0f58}
+      \strng{authorbibnamehash}{4cb84dd858c4ec9dae881405f13f0f58}
+      \strng{authornamehash}{4cb84dd858c4ec9dae881405f13f0f58}
+      \strng{authorfullhash}{4cb84dd858c4ec9dae881405f13f0f58}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00046256}
+      \field{journaltitle}{The Astronomical Journal}
+      \field{number}{6}
+      \field{title}{{An iterative technique for the rectification of observed distributions}}
+      \field{volume}{79}
+      \field{year}{1974}
+      \field{pages}{745}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/111605
+      \endverb
+    \endentry
+    \entry{2019_pages2k}{article}{}
+      \name{author}{21}{}{%
+        {{hash=eaacff3eb98fabd7ca2db44a4f0946ea}{%
+           family={{PAGES 2k Consortium.}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=fb4bff104bd8377a4a0347b5e9a67502}{%
+           family={Neukom},
+           familyi={N\bibinitperiod},
+           given={Raphael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bff4d53397bb3a3ef41da0f9716dcb5f}{%
+           family={Barboza},
+           familyi={B\bibinitperiod},
+           given={Luis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c027439388a7dbfec8ae1e87951735d4}{%
+           family={Erb},
+           familyi={E\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=20f1235dbaae639ab190cc695022122d}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=493323aab2b6e61a0842bb3d138e8274}{%
+           family={Emile-Geay},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=083088e30e0e5496cd1b654f3163f826}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Michael\bibnamedelima N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=861854a17a7d79ab04e94dc8829f0e71}{%
+           family={Franke},
+           familyi={F\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ffd5352a3e5c20c0260756719b5e8966}{%
+           family={Kaufman},
+           familyi={K\bibinitperiod},
+           given={Darrell\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d380f3aaa8dff9715c060b2cde6ee0d4}{%
+           family={Lücke},
+           familyi={L\bibinitperiod},
+           given={Lucie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=19b481ce66384c3569be47cd5f414488}{%
+           family={Rehfeld},
+           familyi={R\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fb87da15310c74fd1e456c2f98387c55}{%
+           family={Schurer},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c527382ce6a2bdfc4548a1f28e479d85}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e7b30fb1c6097c766434c9a27f81cf33}{%
+           family={Brönnimann},
+           familyi={B\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d9ab0fdce6ec0d11b714e0d70ddd5bdc}{%
+           family={Hakim},
+           familyi={H\bibinitperiod},
+           given={Gregory\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=194e2a9b54eeb0c43d205266565dcde3}{%
+           family={Henley},
+           familyi={H\bibinitperiod},
+           given={Benjamin\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4247c3b927585259bbf3a6f37dc4a495}{%
+           family={Ljungqvist},
+           familyi={L\bibinitperiod},
+           given={Fredrik\bibnamedelima Charpentier},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bb98d773a529d9cb0dfe6a4c362dfe4c}{%
+           family={McKay},
+           familyi={M\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b53cbcdc14a4e12622f4199b7e491e89}{%
+           family={Valler},
+           familyi={V\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod}}}%
+        {{hash=184cf59da8b5e4a7eb1a8be62017c0b1}{%
+           family={Gunten},
+           familyi={G\bibinitperiod},
+           given={Lucien},
+           giveni={L\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=99de9f7975a9e4cd6348d9452c05aba5}{%
+           family={2k\bibnamedelima Consortium},
+           familyi={2\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={P.\bibnamedelimi A.\bibnamedelimi G.\bibnamedelimi E.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c019be2bcbdce43e8432b00c0dbef3bc}
+      \strng{fullhash}{8c1541c461694e33455ca6348ee5b172}
+      \strng{bibnamehash}{c019be2bcbdce43e8432b00c0dbef3bc}
+      \strng{authorbibnamehash}{c019be2bcbdce43e8432b00c0dbef3bc}
+      \strng{authornamehash}{c019be2bcbdce43e8432b00c0dbef3bc}
+      \strng{authorfullhash}{8c1541c461694e33455ca6348ee5b172}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Multidecadal surface temperature changes may be forced by natural as well as anthropogenic factors, or arise unforced from the climate system. Distinguishing these factors is essential for estimating sensitivity to multiple climatic forcings and the amplitude of the unforced variability. Here we present 2,000-year-long global mean temperature reconstructions using seven different statistical methods that draw from a global collection of temperature-sensitive palaeoclimate records. Our reconstructions display synchronous multidecadal temperature fluctuations that are coherent with one another and with fully forced millennial model simulations from the Coupled Model Intercomparison Project Phase 5 across the Common Era. A substantial portion of pre-industrial (1300--1800{\thinspace}ce) variability at multidecadal timescales is attributed to volcanic aerosol forcing. Reconstructions and simulations qualitatively agree on the amplitude of the unforced global mean multidecadal temperature variability, thereby increasing confidence in future projections of climate change on these timescales. The largest warming trends at timescales of 20{\thinspace}years and longer occur during the second half of the twentieth century, highlighting the unusual character of the warming in recent decades.}
+      \field{issn}{1752-0908}
+      \field{journaltitle}{Nature Geoscience}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Consistent multidecadal variability in global temperature reconstructions and simulations over the Common Era}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{643\bibrangedash 649}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/s41561-019-0400-0
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41561-019-0400-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41561-019-0400-0
+      \endverb
+    \endentry
+    \entry{1972richardson}{article}{}
+      \name{author}{1}{}{%
+        {{hash=adc43a93af000f4646eb93af4ae64aff}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={W.\bibnamedelimi H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{adc43a93af000f4646eb93af4ae64aff}
+      \strng{fullhash}{adc43a93af000f4646eb93af4ae64aff}
+      \strng{bibnamehash}{adc43a93af000f4646eb93af4ae64aff}
+      \strng{authorbibnamehash}{adc43a93af000f4646eb93af4ae64aff}
+      \strng{authornamehash}{adc43a93af000f4646eb93af4ae64aff}
+      \strng{authorfullhash}{adc43a93af000f4646eb93af4ae64aff}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Opt. Soc. Am.}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Bayesian-Based Iterative Method of Image Restoration*}}
+      \field{volume}{62}
+      \field{year}{1972}
+      \field{pages}{55\bibrangedash 59}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb http://www.osapublishing.org/abstract.cfm?URI=josa-62-1-55
+      \endverb
+      \verb{url}
+      \verb http://www.osapublishing.org/abstract.cfm?URI=josa-62-1-55
+      \endverb
+      \keyw{Arrays,Deconvolution,Image processing,Point spread function}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
