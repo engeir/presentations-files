@@ -1,0 +1,21 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'beamer_fysikermotet.blg'
+[66] biber:330> INFO - === ma. feb.  7, 2022, 10:32:05
+[78] Biber.pm:415> INFO - Reading 'beamer_fysikermotet.bcf'
+[151] Biber.pm:952> INFO - Found 6 citekeys in bib section 0
+[161] Biber.pm:4334> INFO - Processing section 0
+[171] Biber.pm:4523> INFO - Looking for bibtex format file '/home/een023/science/ref/ref.bib' for section 0
+[176] bibtex.pm:1682> INFO - LaTeX decoding ...
+[235] bibtex.pm:1494> INFO - Found BibTeX data source '/home/een023/science/ref/ref.bib'
+[251] Utils.pm:384> WARN - month field 'sep' in entry 'knutti2017' is not an integer - this will probably not sort properly.
+[260] Utils.pm:384> WARN - month field 'jan' in entry '1972richardson' is not an integer - this will probably not sort properly.
+[261] Utils.pm:384> WARN - month field 'dec' in entry 'benvenuto2009' is not an integer - this will probably not sort properly.
+[292] Utils.pm:384> WARN - month field 'Aug' in entry '2019_pages2k' is not an integer - this will probably not sort properly.
+[292] Utils.pm:384> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[303] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[303] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[303] Biber.pm:4162> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[303] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[312] bbl.pm:651> INFO - Writing 'beamer_fysikermotet.bbl' with encoding 'UTF-8'
+[319] bbl.pm:754> INFO - Output to beamer_fysikermotet.bbl
+[320] Biber.pm:128> INFO - WARNINGS: 5
