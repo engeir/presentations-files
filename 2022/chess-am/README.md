@@ -2,4 +2,4 @@
 
 Poster for the CHESS annual meeting 2022.
 
-Find the source code [here](https://github.com/engeir/presentations/tree/2022-chess-am/2022/chess-am/poster/borb-poster).
+Find the source code [here](https://github.com/engeir/presentations/tree/main/2022/chess-am/poster/borb-poster).
